@@ -6,6 +6,8 @@ can/must be run directly from the terminal using node.js!
 Simply answer the prompts and your readme.md file will be generated in your working directory/on your
 local computer. 
 
+# Video Demo: https://watch.screencastify.com/v/9oFPrpzZUMDZkO4Icq4P
+
 ## Motivation
 
 Coincidentally, I had been previously thinking of ways to automatically generate portfolios, and sure
@@ -23,6 +25,10 @@ bootcamp is very delightful.
 
 ## Build Status
 
+Github link:https://github.com/rickyesc1/readmegenerator
+email: richi.escamilla@gmail.com
+video demo: https://watch.screencastify.com/v/9oFPrpzZUMDZkO4Icq4P
+
 This application is a terminal-run one, different than the previous assignments which have all been deployed
 live hosted on github, however this one does not have an html file, therefore it can't be web-run. Instead, the
 application is ran from terminal (mac users) and from the git bash (windows users). As long as your computer 
@@ -37,7 +43,7 @@ that are dependent on user-input.
 
 ## Video Demo and Screenshots
 
-Please click on this link to watch a video on how to access, run, and use the app:
+Please click on this link to watch a video on how to access, run, and use the app: https://watch.screencastify.com/v/9oFPrpzZUMDZkO4Icq4P
 
 Below are some screenshots as well:
 
